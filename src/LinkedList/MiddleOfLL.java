@@ -34,6 +34,7 @@ public class MiddleOfLL {
      * @param head the head of the linked list
      * @return the middle node of the list
      */
+
     public ListNode middleNode(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;

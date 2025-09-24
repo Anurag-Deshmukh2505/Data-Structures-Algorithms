@@ -1,0 +1,70 @@
+## **Strings – 50 Must-Do FAANG Interview Questions**
+
+### **Easy (10)**
+1. Reverse String – 344
+2. Reverse Words in a String III – 557
+3. Valid Anagram – 242
+4. Implement strStr() – 28
+5. Count and Say – 38
+6. Longest Common Prefix – 14
+7. Palindrome Number / String – 9 / 125
+8. Ransom Note – 383
+9. Add Binary – 67
+10. Defanging an IP Address – 1108
+---
+
+### **Medium (25)**
+11. Longest Substring Without Repeating Characters – 3
+12. Longest Repeating Character Replacement – 424
+13. Group Anagrams – 49
+14. Minimum Window Substring – 76
+15. Decode String – 394
+16. Valid Parentheses – 20
+17. Reverse Words in a String – 151
+18. Integer to Roman – 12
+19. Roman to Integer – 13
+20. Multiply Strings – 43
+21. Longest Palindromic Substring – 5
+22. Palindromic Substrings – 647
+23. Valid Palindrome – 125
+24. Valid Parenthesis String – 678
+25. Encode and Decode Strings – 271
+26. Count Substrings – 647
+27. Simplify Path – 71
+28. Remove Duplicate Letters – 316
+29. Longest Substring with At Most K Distinct Characters – 340
+30. Reorganize String – 767
+31. License Key Formatting – 482
+32. Word Search – 79
+33. Word Search II – 212
+34. Longest Substring with At Most Two Distinct Characters – 159
+35. Minimum Remove to Make Valid Parentheses – 1249
+---
+
+### **Hard (15)**
+36. Wildcard Matching – 44
+37. Regular Expression Matching – 10
+38. Longest Valid Parentheses – 32
+39. Palindrome Pairs – 336
+40. Shortest Palindrome – 214
+41. Concatenated Words – 472
+42. Edit Distance – 72
+43. Encode and Decode TinyURL – 535
+44. Longest Substring Without Repeating Characters II – 159 variant
+45. Distinct Subsequences – 115
+46. Word Ladder – 127
+47. Word Ladder II – 126
+48. Minimum Window Subsequence – 727
+49. Interleaving String – 97
+50. Serialize and Deserialize Binary Tree – 297 (string + tree conversion)
+---
+
+### **Patterns to Focus On**
+* **Sliding Window** → 3, 76, 340
+* **Two Pointers** → 344, 557, 125
+* **Hash Map / Counting** → 242, 49, 383
+* **Stack** → 20, 32, 71, 1249
+* **Dynamic Programming** → 5, 115, 72, 727
+* **Backtracking / Trie** → 79, 212, 336
+* **Greedy / Sorting** → 316, 482, 767
+---

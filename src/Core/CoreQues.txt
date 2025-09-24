@@ -1,0 +1,38 @@
+📌 Top 30 FAANG-Level Problems (Core Math + Recursion)
+🔹 Recursion & Divide-and-Conquer (10)
+Pow(x, n) – LC 50 (fast exponentiation recursion)
+Reverse Linked List (recursive) – LC 206
+Merge Two Sorted Lists (recursive) – LC 21
+Maximum Depth of Binary Tree – LC 104
+Symmetric Tree – LC 101
+Invert Binary Tree – LC 226
+K-th Symbol in Grammar – LC 779 (indirect recursion)
+Generate Parentheses – LC 22 (recursive construction)
+Subsets (recursive) – LC 78
+Permutations (recursive) – LC 46
+
+🔹 GCD, LCM & Number Theory (7)
+Greatest Common Divisor of Strings – LC 1071
+Water and Jug Problem – LC 365 (GCD / Bézout theorem)
+Ugly Number II – LC 264 (multiples / LCM logic)
+Super Ugly Number – LC 313 (prime factorization)
+Nth Magical Number – LC 878 (LCM + modulo arithmetic)
+Integer Break – LC 343 (factorization thinking)
+Perfect Squares – LC 279 (math decomposition)
+
+🔹 Primes & Sieve (5)
+Count Primes (Sieve of Eratosthenes) – LC 204
+Prime Palindrome – LC 866
+Prime Arrangements – LC 1175
+Happy Number – LC 202 (digit transform & cycle detection)
+Factorial Trailing Zeroes – LC 172 (logarithmic division)
+
+🔹 Modular Arithmetic & Digit Problems (8)
+Super Pow – LC 372 (fast modular exponentiation)
+Reverse Integer – LC 7 (digit extraction mod 10)
+Palindrome Number – LC 9 (mod digit check)
+Excel Sheet Column Number – LC 171 (base-26 mod conversion)
+Excel Sheet Column Title – LC 168 (reverse conversion)
+Add Binary – LC 67
+Multiply Strings – LC 43 (long multiplication with mod)
+Integer Replacement – LC 397 (recursion + mod decisions)

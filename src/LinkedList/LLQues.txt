@@ -1,0 +1,69 @@
+# 📌 50 Must-Do Linked List Problems for FAANG
+---
+ 🟢 Easy (Warmup / Fundamentals) – 15 Qs
+1. Reverse Linked List (iterative & recursive) – LC 206
+2. Middle of the Linked List – LC 876
+3. Remove Linked List Elements – LC 203
+4. Palindrome Linked List – LC 234
+5. Convert Binary Number in a Linked List to Integer – LC 1290
+6. Merge Two Sorted Lists – LC 21
+7. Intersection of Two Linked Lists – LC 160
+8. Linked List Cycle (Floyd’s Tortoise & Hare) – LC 141
+9. Design Linked List (singly/doubly ops) – LC 707
+10. Delete Node in a Linked List – LC 237 *(tricky O(1) deletion)*
+11. Swap Nodes in Pairs – LC 24
+12. Add Two Numbers II (without reversing) – LC 445 *(list-based addition)*
+13. Remove Duplicates from Sorted List – LC 83
+14. Remove Duplicates from Sorted List II – LC 82
+15. Reverse Linked List II (partial reversal) – LC 92
+---
+
+ 🟡 Medium (Core FAANG-Level) – 25 Qs
+16. Linked List Cycle II – LC 142 *(find cycle entry with Floyd’s)*
+17. Partition List – LC 86
+18. Reorder List – LC 143
+19. Rotate List – LC 61
+20. Remove Nth Node From End of List – LC 19 *(two-pointer trick)*
+21. Odd Even Linked List – LC 328
+22. Split Linked List in Parts – LC 725
+23. Flatten a Multilevel Doubly Linked List – LC 430
+24. Flatten Binary Tree to Linked List – LC 114 *(conversion practice)*
+25. Copy List with Random Pointer – LC 138 *(deep copy)*
+26. LRU Cache – LC 146 *(doubly LL + hashmap)*
+27. Design Browser History – LC 1472 *(doubly LL)*
+28. Plus One Linked List – LC 369 *(recursive addition)*
+29. Add Two Numbers (linked list addition) – LC 2
+30. Insertion Sort List – LC 147
+31. Sort List – LC 148 *(merge sort on linked list)*
+32. Convert Sorted List to BST – LC 109 *(fast-slow pointer recursion)*
+33. Intersection of Two Cycled Linked Lists *(custom variant)*
+34. Reverse Nodes in k-Group – LC 25
+35. Swap Nodes in Linked List (by values) – LC 1721
+36. Design Circular Deque – LC 641 *(circular linked list simulation)*
+37. Linked List Random Node – LC 382 *(reservoir sampling)*
+38. Rotate Right Linked List (mod n trick) – LC 61
+39. Remove Zero Sum Consecutive Nodes from Linked List – LC 1171
+40. Add Numbers in Forward Order *(custom, stack + LL)*
+---
+
+ 🔴 Hard (Advanced Linked List Challenges) – 10 Qs
+41. Merge k Sorted Lists – LC 23 *(min-heap / divide & conquer)*
+42. Reverse Nodes in k-Group – LC 25 *(hard pointer manipulation)*
+43. LFU Cache – LC 460 *(doubly LL + hashmap)*
+44. Design Skiplist – LC 1206 *(advanced linked structure)*
+45. All O(1) Data Structure – LC 432 *(linked hash structure)*
+46. Find Median from Data Stream – LC 295 *(linked heaps)*
+47. Flatten Multilevel Doubly Linked List (harder variant) – LC 430 advanced test cases
+48. Clone Linked List with Random Pointers (optimal O(1) space) – LC 138 optimized
+49. Split Circular Linked List into Two Halves *(custom, often asked)*
+50. Detect & Remove Cycle in Linked List (Floyd + modification) *(custom, very common FAANG)*
+---
+
+✅ Coverage:
+* Singly LL basics → insert, delete, reverse, traversal
+* Doubly LL (flatten, design, LRU cache, deque)
+* Circular LL (design problems + cycle detection)
+* Floyd’s cycle detection (LC 141, 142 + variations)
+* Reversals (full, partial, k-group, recursive)
+* Sorting, partitioning, reordering
+* FAANG system-design flavored problems (LRU, LFU, Skiplist, All O(1) DS)

@@ -7,7 +7,6 @@ package LinkedList;
  * O(n) time complexity and O(1) space complexity.
  */
 public class LLCycle {
-
     /**
      * Determines if the linked list contains a cycle.
      *

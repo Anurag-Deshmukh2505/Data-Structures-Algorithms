@@ -1,25 +1,6 @@
 package LinkedList;
 
 /**
- * Definition for singly-linked list.
- */
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode() {}
-
-    ListNode(int val) {
-        this.val = val;
-    }
-
-    ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
-}
-
-/**
  * This class provides a method to find the middle node of a singly linked list.
  * <p>
  * It uses the fast and slow pointer technique to achieve O(n) time

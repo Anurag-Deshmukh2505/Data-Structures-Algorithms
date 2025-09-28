@@ -1,8 +1,17 @@
 package Array;
 
+/**
+ * This class provides methods to search for a target value in a rotated sorted array.
+ */
 public class SearchRotatedArray {
 
-    // Function to search target in rotated sorted array
+    /**
+     * Searches for a target value in a rotated sorted array using modified binary search.
+     *
+     * @param nums   the rotated sorted array
+     * @param target the value to search for
+     * @return the index of target if found, -1 otherwise
+     */
     public int search(int[] nums, int target) {
         int left = 0, right = nums.length - 1;
 
@@ -32,18 +41,25 @@ public class SearchRotatedArray {
         return -1; // target not found
     }
 
-    // Main method with predefined array
+    /**
+     * Main method to test the search in rotated array.
+     *
+     * @param args command-line arguments (not used)
+     */
     public static void main(String[] args) {
-        int[] nums = { 4, 5, 6, 7, 0, 1, 2 }; // Predefined rotated array
-        int target = 0; // Target to search
+        int[] nums = {4, 5, 6, 7, 0, 1, 2}; // Predefined rotated array
+        SearchRotatedArray obj = new SearchRotatedArray();
 
-        SearchRotatedArray sra = new SearchRotatedArray();
-        int result = sra.search(nums, target);
+        int[] targets = {0, 3, 6, 7, 8}; // Multiple test targets
 
-        if (result != -1) {
-            System.out.println("Target " + target + " found at index: " + result);
-        } else {
-            System.out.println("Target " + target + " not found in the array.");
+        System.out.println("Rotated Array Search Results:");
+        for (int target : targets) {
+            int index = obj.search(nums, target);
+            if (index != -1) {
+                System.out.println("Target " + target + " found at index: " + index);
+            } else {
+                System.out.println("Target " + target + " not found in the array.");
+            }
         }
     }
 }

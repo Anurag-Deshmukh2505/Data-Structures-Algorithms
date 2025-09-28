@@ -1,59 +1,32 @@
-50 Must-Do Linked List Problems for FAANG
- 🟢 Easy (Warmup / Fundamentals) – 15 Qs
-1. Reverse Linked List (iterative & recursive) – 206
-2. Middle of the Linked List – 876***
-3. Remove Linked List Elements – 203
-4. Palindrome Linked List – 234
-5. Convert Binary Number in a Linked List to Integer – 1290
-6. Merge Two Sorted Lists – 21
-7. Intersection of Two Linked Lists – 160
-8. Linked List Cycle (Floyd’s Tortoise & Hare) – 141
-9. Design Linked List (singly/doubly ops) – 707
-10. Delete Node in a Linked List – 237 (tricky O(1) deletion)
-11. Swap Nodes in Pairs – 24
-12. Add Two Numbers II (without reversing) – 445 (list-based addition)
-13. Remove Duplicates from Sorted List – 83
-14. Remove Duplicates from Sorted List II – 82
-15. Reverse Linked List II (partial reversal) – 92
----
-
- 🟡 Medium (Core FAANG-Level) – 25 Qs
-16. Linked List Cycle II – 142 (find cycle entry with Floyd’s)
-17. Partition List – 86
-18. Reorder List – 143
-19. Rotate List – 61
-20. Remove Nth Node From End of List – 19 (two-pointer trick)
-21. Odd Even Linked List – 328
-22. Split Linked List in Parts – 725
-23. Flatten a Multilevel Doubly Linked List – 430
-24. Flatten Binary Tree to Linked List – 114 (conversion practice)
-25. Copy List with Random Pointer – 138 (deep copy)
-26. LRU Cache – 146 (doubly LL + hashmap)
-27. Design Browser History – 1472 (doubly LL)
-28. Plus One Linked List – 369 (recursive addition)
-29. Add Two Numbers (linked list addition) – 2
-30. Insertion Sort List – 147
-31. Sort List – 148 (merge sort on linked list)
-32. Convert Sorted List to BST – 109 (fast-slow pointer recursion)
-33. Intersection of Two Cycled Linked Lists (custom variant)
-34. Reverse Nodes in k-Group – 25
-35. Swap Nodes in Linked List (by values) – 1721
-36. Design Circular Deque – 641 (circular linked list simulation)
-37. Linked List Random Node – 382 (reservoir sampling)
-38. Rotate Right Linked List (mod n trick) – 61
-39. Remove Zero Sum Consecutive Nodes from Linked List – 1171
-40. Add Numbers in Forward Order (custom, stack + LL)
----
-
- 🔴 Hard (Advanced Linked List Challenges) – 10 Qs
-41. Merge k Sorted Lists – 23 (min-heap / divide & conquer)
-42. Reverse Nodes in k-Group – 25 (hard pointer manipulation)
-43. LFU Cache – 460 (doubly LL + hashmap)
-44. Design Skiplist – 1206 (advanced linked structure)
-45. All O(1) Data Structure – 432 (linked hash structure)
-46. Find Median from Data Stream – 295 (linked heaps)
-47. Flatten Multilevel Doubly Linked List (harder variant) – 430 advanced test cases
-48. Clone Linked List with Random Pointers (optimal O(1) space) – 138 optimized
-49. Split Circular Linked List into Two Halves (custom, often asked)
-50. Detect & Remove Cycle in Linked List (Floyd + modification) (custom, very common FAANG)
+Linked List (30 unique)
+1. Reverse Linked List
+2. Merge Two Sorted Lists
+3. Merge K Sorted Lists
+4. Remove Nth Node From End
+5. Linked List Cycle (Detect)***
+6. Linked List Cycle II (Find Start Node)***
+7. Intersection of Two Linked Lists
+8. Add Two Numbers
+9. Copy List with Random Pointer
+10. Reorder List
+11. Palindrome Linked List
+12. Partition List
+13. Swap Nodes in Pairs
+14. Rotate List
+15. Reverse Nodes in k-Group
+16. Flatten a Multilevel Doubly Linked List
+17. Remove Duplicates from Sorted List
+18. Remove Duplicates from Sorted List II
+19. Odd Even Linked List
+20. Split Linked List in Parts
+21. Sort List (Merge Sort)
+22. Remove Linked List Elements
+23. Swap Nodes in Linked List
+24. Convert Binary Search Tree to Sorted Doubly Linked List
+25. LRU Cache (DLL + HashMap)
+26. Design Linked List
+27. Flatten Binary Tree to Linked List
+28. Reverse Linked List II
+29. Detect and Remove Loop in Linked List
+30. Rotate Linked List (variant problem)
 ---

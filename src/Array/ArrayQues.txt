@@ -1,58 +1,37 @@
-Array – 50 Must-Do Questions for FAANG Interviews.
-Easy (10)
-1. Two Sum – 1***
-2. Best Time to Buy and Sell Stock – 121***
-3. Contains Duplicate – 217***
-4. Move Zeroes – 283***
-5. Remove Duplicates from Sorted Array – 26***
-6. Single Number – 136***
-7. Plus One – 66***
-8. Intersection of Two Array II – 350***
-9. Valid Mountain Array – 941***
-10. Squares of a Sorted Array – 977***
+ **Easy**
+6. Move Zeroes***
+7. Best Time to Buy and Sell Stock***
+8. Maximum Subarray (Kadane’s)***
+9. Sort Colors
+10. Valid Palindrome
+11. Reverse Words in a String
+12. Jump Game I
 
+---
+ **Medium**
+3. Container With Most Water***
+4. Product of Array Except Self***
+5. Minimum Window Substring
+6. Longest Substring Without Repeating Characters
+7. Longest Repeating Character Replacement
+8. Maximum Product Subarray
+9. Search in Rotated Sorted Array***
+10. Search in Rotated Sorted Array II
+11. Find First and Last Position of Element in Sorted Array***
+12. Merge Intervals
+13. Insert Interval
+14. Non-overlapping Intervals
+15. Largest Number
+16. Spiral Matrix
+17. Set Matrix Zeroes
+18. Word Search
 
-Medium (25).
-11. Product of Array Except Self – 238***
-12. 3Sum – 15
-13. 4Sum – 18
-14. Subarray Sum Equals K – 560
-15. Container With Most Water – 11***
-16. Find Minimum in Rotated Sorted Array – 153
-17. Search in Rotated Sorted Array – 33
-18. Top K Frequent Elements – 347
-19. Majority Element – 169
-20. Merge Intervals – 56
-21. Move Zeroes (optimized for minimal writes) – 283***
-22. Partition Labels – 763
-23. Next Permutation – 31
-24. Rotate Image (Matrix) – 48
-25. Set Matrix Zeroes – 73
-26. Spiral Matrix – 54
-27. Pascal’s Triangle – 118
-28. Minimum Size Subarray Sum – 209
-29. 132 Pattern – 456
-30. Search a 2D Matrix – 74***
-31. Search a 2D Matrix II – 240***
-32. Missing Number – 268***
-33. Find All Numbers Disappeared in an Array – 448***
-34. Candy – 135
-35. Jump Game – 55
-
-
-Hard (15).
-36. Trapping Rain Water – 42
-37. Sliding Window Maximum – 239
-38. Maximum Product Subarray – 152
-39. First Missing Positive – 41
-40. Longest Consecutive Sequence – 128
-41. Largest Rectangle in Histogram – 84
-42. Maximal Rectangle – 85
-43. Median of Two Sorted Array – 4
-44. Russian Doll Envelopes – 354
-45. Shortest Subarray with Sum at Least K – 862
-46. Subarrays with K Different Integers – 992
-47. Longest Subarray of 1’s After Deleting One Element – 1493
-48. Sliding Window Median – 480
-49. Count of Smaller Numbers After Self – 315
-50. Minimum Window Subsequence – 727
+---
+ **Hard**
+1. 3Sum
+2. 3Sum Closest
+3. Trapping Rain Water
+4. Sliding Window Maximum
+5. Rotate Image (Matrix)***
+6. Longest Palindromic Substring
+7. Spiral Order Traversal of Matrix II

@@ -3,7 +3,7 @@
 7. Best Time to Buy and Sell Stock***
 8. Maximum Subarray (Kadane’s)***
 9. Sort Colors
-10. Valid Palindrome
+10. Valid Palindrome***
 11. Reverse Words in a String
 12. Jump Game I
 
